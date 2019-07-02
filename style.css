@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    color: black
+}
+div {
+
+    text-align: center;
+}
+ #wrapper {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    color: #fff;
+    font-size: 84px;
+    font-weight: 900;
+    letter-spacing: -1px;
+}
+.subtitle {
+    color: #fffbfb;
+    font-size: 67px;
+    font-weight: 300;
+}
