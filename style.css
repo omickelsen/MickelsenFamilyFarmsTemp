@@ -19,3 +19,7 @@ div {
     font-size: 67px;
     font-weight: 300;
 }
+
+@media only screen and (max-device-width: 480px) {
+
+}
